@@ -40,7 +40,7 @@ For adding the new conda environment to the jupyter notebook follow this additio
 For pytorch installation:
 
 PyTorch pip package will come bundled with some version of CUDA/cuDNN with it,
-but it is highly recommended that you install a system-wide CUDA beforehand, mostly because of the GPU drivers. 
+but it is highly recommended that you install a system-wide CUDA beforehand, mostly because of the GPU drivers.
 I also recommend using Miniconda installer to get conda on your system.
 Follow through points 1 and 2 of [this setup](https://github.com/Petlja/PSIML/blob/master/docs/MachineSetup.md)
 and use the most up-to-date versions of Miniconda and CUDA/cuDNN for your system.
@@ -58,11 +58,11 @@ For other module installation, please follow the following steps:
 
 > Report Link: :writing_hand: `report link` :ledger:
 
-## LICENSE 
+## LICENSE
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 
 ## Resources
 
-<p align = "justify">:card_index: Documentation and/or Resources for your codes, and other mentions can be included in this section! :key:</p>
+<p align = "justify">:card_index: We have uuse the pytorch problems from [repo](https://github.com/srush/Tensor-Puzzles) to start learning pytorch basics :key:</p>
