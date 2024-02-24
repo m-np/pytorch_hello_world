@@ -65,4 +65,4 @@ For other module installation, please follow the following steps:
 
 ## Resources
 
-<p align = "justify">:card_index: Documentation and/or Resources for your codes, and other mentions can be included in this section! :key:</p>
+We have uuse the pytorch problems from [repo](https://github.com/srush/Tensor-Puzzles) to start learning pytorch basics 
